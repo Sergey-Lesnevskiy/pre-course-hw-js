@@ -5,12 +5,10 @@ let passport = {
     name: "Petr",
     surname: "Petrov",
 };
-let passport2 = {
-    ...passport,
+console.log(passport.name);
+passport = {
     name: "Ivan",
 };
 
-
-console.log(passport2);
 console.log(passport.name);
 //  ❗Для того, чтобы проверить правильность данного задания должно быть выведено 2 console.log
