@@ -10,7 +10,7 @@ let passport2 = {
   name: "Ivan",
     
 };
-console.log(passport);
 console.log(passport2);
+console.log(passport);
 // 📋
 //  ❗Для того, чтобы проверить правильность данного задания должно быть выведено 2 console.log
