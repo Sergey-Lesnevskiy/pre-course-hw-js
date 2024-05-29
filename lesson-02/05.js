@@ -11,6 +11,6 @@ let passport2 = {
 };
 
 
-console.log(passport2.name);
+console.log(passport2);
 console.log(passport.name);
 //  ❗Для того, чтобы проверить правильность данного задания должно быть выведено 2 console.log
