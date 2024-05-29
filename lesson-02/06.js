@@ -8,3 +8,14 @@ let passportWithAddress = {
         city: "LA"
     }
 };
+let passportWithAddress2 = {
+  ...passportWithAddress,
+  
+  address: {
+    
+    city: "Bobryisk"
+}
+
+
+};
+console.log(passportWithAddress2);
