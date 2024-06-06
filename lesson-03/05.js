@@ -25,4 +25,5 @@ const newObj = {
   surName: 'Susanin',
   address: 'Unknown'
 }
+users2.push(newObj);
 console.log(users2);

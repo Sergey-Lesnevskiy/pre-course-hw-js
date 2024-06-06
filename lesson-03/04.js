@@ -60,5 +60,5 @@ const users = [
       address: '753 Cherry St'
   }
 ];
-let even = users.filter(user => user.id%2 === 0)
+let even = users.filter(user => user.id % 2 === 0)
 console.log(even)
